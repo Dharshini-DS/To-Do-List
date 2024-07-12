@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background: url('img.jpg') no-repeat center center fixed;
     background-size: cover;
-    color: #5f0532ed;
+    color: #f8f5f6ed;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(218, 133, 147, 0.7);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -56,7 +56,7 @@ li {
     align-items: center;
 }
 button {
-    background-color: #d41273;
+    background-color: #da2121;
     color: #fff;
     border: none;
     cursor: pointer;
